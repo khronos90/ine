@@ -1,0 +1,23 @@
+{
+  "name": "web_ine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khronos90/ine.git"
+  },
+  "author": "@khronos90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khronos90/ine/issues"
+  },
+  "homepage": "https://github.com/khronos90/ine#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
